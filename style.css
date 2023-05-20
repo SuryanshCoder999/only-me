@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(255, 221, 0);
+    color:rgb(10, 10, 228);
+    font-size: 25px;
+    font-style:oblique;
+}
+
+.heading 
+{
+    width: 80%;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+#cam,#result
+{
+    width:350px;
+    height:300px;
+    border:6px double coral;
+}
